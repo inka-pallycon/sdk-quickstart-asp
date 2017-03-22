@@ -1,5 +1,4 @@
-#
-Gateway PHP Module API
+# Gateway ASP Module API
 
 **( Version 1.0, 2016.08.23 )**
 
